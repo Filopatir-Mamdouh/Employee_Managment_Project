@@ -82,12 +82,12 @@
             dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.DepList.DefaultCellStyle = dataGridViewCellStyle3;
             this.DepList.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
-            this.DepList.Location = new System.Drawing.Point(444, 277);
+            this.DepList.Location = new System.Drawing.Point(412, 277);
             this.DepList.Name = "DepList";
             this.DepList.RowHeadersVisible = false;
             this.DepList.RowHeadersWidth = 51;
             this.DepList.RowTemplate.Height = 29;
-            this.DepList.Size = new System.Drawing.Size(1049, 464);
+            this.DepList.Size = new System.Drawing.Size(1110, 502);
             this.DepList.TabIndex = 67;
             this.DepList.ThemeStyle.AlternatingRowsStyle.BackColor = System.Drawing.Color.White;
             this.DepList.ThemeStyle.AlternatingRowsStyle.Font = null;
@@ -147,7 +147,7 @@
             // 
             // Addbtn
             // 
-            this.Addbtn.BackColor = System.Drawing.Color.Teal;
+            this.Addbtn.BackColor = System.Drawing.Color.DarkSlateGray;
             this.Addbtn.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Addbtn.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.Addbtn.Location = new System.Drawing.Point(64, 340);
@@ -168,7 +168,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label3.ForeColor = System.Drawing.Color.DodgerBlue;
+            this.label3.ForeColor = System.Drawing.Color.DarkCyan;
             this.label3.Location = new System.Drawing.Point(64, 243);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(180, 25);
@@ -188,12 +188,12 @@
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.Teal;
+            this.panel1.BackColor = System.Drawing.Color.DarkSlateGray;
             this.panel1.Controls.Add(this.label1);
             this.panel1.ForeColor = System.Drawing.Color.White;
-            this.panel1.Location = new System.Drawing.Point(31, 35);
+            this.panel1.Location = new System.Drawing.Point(-2, -4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1462, 136);
+            this.panel1.Size = new System.Drawing.Size(1524, 175);
             this.panel1.TabIndex = 51;
             // 
             // pictureBox1
@@ -250,7 +250,7 @@
             // 
             this.EmpLbl.AutoSize = true;
             this.EmpLbl.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.EmpLbl.ForeColor = System.Drawing.Color.DodgerBlue;
+            this.EmpLbl.ForeColor = System.Drawing.Color.DarkCyan;
             this.EmpLbl.Location = new System.Drawing.Point(647, 191);
             this.EmpLbl.Name = "EmpLbl";
             this.EmpLbl.Size = new System.Drawing.Size(105, 25);
@@ -261,7 +261,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label5.ForeColor = System.Drawing.Color.DodgerBlue;
+            this.label5.ForeColor = System.Drawing.Color.DarkCyan;
             this.label5.Location = new System.Drawing.Point(919, 191);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(138, 25);
@@ -272,7 +272,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label6.ForeColor = System.Drawing.Color.DodgerBlue;
+            this.label6.ForeColor = System.Drawing.Color.DarkCyan;
             this.label6.Location = new System.Drawing.Point(1152, 191);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(80, 25);
@@ -283,7 +283,7 @@
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label7.ForeColor = System.Drawing.Color.DodgerBlue;
+            this.label7.ForeColor = System.Drawing.Color.DarkCyan;
             this.label7.Location = new System.Drawing.Point(1350, 191);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(82, 25);
