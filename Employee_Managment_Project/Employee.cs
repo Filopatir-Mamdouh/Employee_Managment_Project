@@ -12,9 +12,19 @@ namespace Employee_Managment_Project
 {
     public partial class Employee : Form
     {
+        Function con;
         public Employee()
         {
             InitializeComponent();
+            con = new Function();
+            
+        }
+
+        
+
+        private void Employee_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
